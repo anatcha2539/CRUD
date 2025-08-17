@@ -16,13 +16,6 @@
 
 ---
 
-## 📸 Screenshot
-![App Screenshot](screenshot.png)
-
-*(เพิ่มไฟล์ screenshot.png ใน repo เพื่อแสดงภาพ)*
-
----
-
 ## 🛠 Tech Stack
 - **React** (Vite)
 - **Firebase Firestore**
